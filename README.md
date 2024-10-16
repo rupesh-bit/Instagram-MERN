@@ -1,7 +1,7 @@
 # Instagram-MERN
 ## This is full-stack instagram app 
 
-This project is an Instagram clone built using the react.js,javascript,vite and Appwrite . It allows users to sign up, log in, create posts, like and comment on posts.
+This project is an Instagram clone built using MERN stack . It allows users to sign up, log in, create posts, like and comment on posts.
 
 
 ## Frontend 
@@ -42,7 +42,7 @@ This project is an Instagram clone built using the react.js,javascript,vite and 
 
 
 
-## if everything done well ,you able to register and able uplode photo into your account .
+## if everything done well ,you wil be  able to register and uplode photo into your account .
 ## and in this process you can learn a lot about work flow of fullstack app.
 
 ## Prerequisites
